@@ -1,0 +1,26 @@
+.main {
+    padding: 0;
+}
+
+.logo img {
+    height: 45px;
+}
+
+.navbar {
+    border-radius: 5px;
+}
+
+#navbarNavAltMarkup {
+    justify-content: space-around;
+}
+
+.navbar-nav a:hover {
+    color: white;
+    background-color: black;
+}
+
+.head h1 {
+    display: flex;
+    margin-top: 300px;
+    justify-content: center;
+}
